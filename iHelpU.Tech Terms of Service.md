@@ -1,7 +1,9 @@
 ![iHelpU.Tech](https://images.squarespace-cdn.com/content/v1/588d25c3b8a79b901b5ae8b9/1495999923112-PLQ58PF2UQKBK593CHCJ/ke17ZwdGBToddI8pDm48kPG4-zTsc9BW0ztvUiO2YxpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwfPUD82w-M46fQsFuhY8_P1lhThQssyGVTflx7EF95gEvobb7wrfhUCOzixgm4shI/Asset+2.png "Logo")
 
 #Terms of Service
-Last Updated: 05/13/2021
+
+*Last Updated: 05/13/2021*
+
 # General Terms
 
 ## About Our Business
