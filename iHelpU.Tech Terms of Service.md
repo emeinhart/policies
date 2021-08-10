@@ -24,6 +24,10 @@ Meinhart Solutions LLC employs Apple certified technicians. Some technicians may
 
 Meinhart Solutions LLC reserves the right to refuse business to any client for any reason pursuant to the Civil Rights Act of 1964. We are happy to work with you to help with your technology needs. We ask that you respect our staff and facilities in return. As a family friendly company, we ask that customers refrain from swearing on the premise. You will be asked to leave if you display poor public behavior. 
 
+## We're allowed to work on your device
+
+You are authorizing Meinhart Solutions LLC dba iHelpU.Tech to repair
+
 ## Recording On Premise
 
 Recordings of technicians, repairs, devices, inventory, and our premises is forbidden without the express written consent of Meinhart Solutions LLC. A recording is defined as a video or audio stream that is saved to a device, or a video or audio stream that is uploaded to an online service. Live streams of video or audio to any service or device are prohibited. Meinhart Solutions LLC will confiscate any offending devices until there is sufficient evidence that the unauthorized recordings are deleted. We will escort unauthorized parties off of the premise upon noticing the offense. 
@@ -74,9 +78,18 @@ Abandoned devices will sold as means of compensation to cover our loss of time a
 
 Meinhart Solutions LLC will attempted, but is not obligated, to contact the customer once a repair is completed and before a device becomes abandoned. A valid phone and email must be on file. Meinhart Solutions LLC is not responsible for incorrect or outdated contact information. It is the customer’s responsibility to respond to our messages, keep up-to-date contact information, and inform Meinhart Solutions LLC of any contact information changes.
 
+## Estimate Policy
+
+Repairs 
+
 # Repair Specific Terms
 
 Meinhart Solutions LLC may enact special terms and conditions for specific repairs.
+
+## Apple IRP repairs
+### The following terms apply for all Mac and iPhone repairs covered under the Apple Independent Repair Provider program:  
+Additional user information may be required prior to creating an IRP repair. Apple requires this information to 
+Find My must be disabled on the unit under repair for the duration of the repair. This includes when the repair is still active.
 
 ## Motorola Phone Repairs
 
