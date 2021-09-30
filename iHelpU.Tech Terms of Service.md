@@ -86,7 +86,7 @@ Repairs // add further information
 
 Meinhart Solutions LLC may enact special terms and conditions for specific repairs.
 
-### Apple IRP repairs
+### Apple IRP Repairs
 #### The following terms apply for all Mac and iPhone repairs covered under the Apple Independent Repair Provider (IRP) program:  
 Additional user information may be required prior to creating an IRP repair. Apple requires this information to 
 Find My must be disabled on the unit under repair for the duration of the repair. This includes when the repair is still active.
