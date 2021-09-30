@@ -58,7 +58,7 @@ Devices that are deemed unfixable by a technician may be returned to the custome
 
 Business entities may be subject to a bench fee for estimates at the technician's discretion. This is mainly to prevent abuse of our policy.
 
-The no fix, no fee no longer applies once payment has been received for a repair. (Please see Warranty & Refund Policy.) 
+The no fix, no fee policy no longer applies once payment has been received for a repair. (Please see Warranty & Refund Policy.) 
 
 ### Customer Property
 
