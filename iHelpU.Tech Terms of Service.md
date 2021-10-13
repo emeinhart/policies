@@ -88,8 +88,14 @@ Meinhart Solutions LLC may enact special terms and conditions for specific repai
 
 ### Apple IRP Repairs
 #### The following terms apply for all Mac and iPhone repairs covered under the Apple Independent Repair Provider (IRP) program:  
-Additional user information may be required prior to creating an IRP repair. Apple requires this information to 
-Find My must be disabled on the unit under repair for the duration of the repair. This includes when the repair is still active.
+Additional user information may be required prior to creating an IRP repair. Apple requires the following information:
+                            * First Name & Last Name
+                            * Valid Phone Number
+                            * Valid email Address
+                            * Address, City, State, Zip Code
+**Find My must be disabled on the unit under repair for the duration of the repair. This includes when the repair is still active.**
+**Apple IRP Repairs must be completed within 30 days of the date in which the ticket was created.**
+This is to adhere to Apple's exchange services. 
 
 ### Motorola Phone Repairs
 
