@@ -6,7 +6,7 @@
 
 ### About Our Business
 
-Meinhart Solutions LLC is a limited liability company that is doing business as (dba) iHelpU.tech. Checks must be written to Meinhart Solutions LLC. Any checks written to iHelpU.tech or any individual or organization other than Meinhart Solutions LLC may be refused. 
+Meinhart Solutions LLC is a limited liability company that is doing business as (dba) iHelpU.tech. Checks may be written to Meinhart Solutions LLC or iHelpU.tech. Any checks written to any individual or organization other than Meinhart Solutions LLC or iHelpU.tech may be refused. 
 
 Customers accept our terms of service when they enter the premises and/or when the customer does business with Meinhart Solutions LLC. Terms and conditions are subject to change.
 
